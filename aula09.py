@@ -18,7 +18,7 @@ frase = 'curso em video python'
 #print(frase.count('o')) vai contar quantos "o" minusculos tem na frase
 #print(frase.upper().count('O'))
 #print(len(frase)) o comando(len) contas quantas lentras tem na frase. Lembrando: espacos contam!
-#print(len(frase.stripe())) se adicionarmos o comando .stripe ele remove os espacos indesejados como os do incio e do final caso exista!
+#print(len(frase.strip())) se adicionarmos o comando .strip ele remove os espacos indesejados como os do incio e do final caso exista!
 #frase = (frase.replace('Python', 'Android')) ele da a possibilidade de subistituir a frase
 #print(frase)
 

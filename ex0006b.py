@@ -1,4 +1,4 @@
-n = int(input('digite um valor!'))
+n = int(input('digite um valor! '))
 d = n * 2
 t = n * 3
 r = n ** (1/2)
